@@ -9,9 +9,4 @@
     <pre>
         keys.forEach(key => key.addEventListener('transitionend', removePlayingClass))
         
-        function removePlayingClass (e) {
-            if (e.propertyName!=='transform') return
-            e.target.classList.remove('playing')    
-        }
-    </pre>
 </p>
