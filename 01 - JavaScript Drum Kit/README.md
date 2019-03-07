@@ -7,13 +7,11 @@
     <pre><code>audio.currentTime = 0</code></pre>
     4. <code>transitionend</code> 事件可以監聽 transition 結束後的行為
     <pre>
-        <code>keys.forEach(key => key.addEventListener('transitionend', removePlayingClass))</code>
+        keys.forEach(key => key.addEventListener('transitionend', removePlayingClass))
         
-        <code>
-            function removePlayingClass (e) {
-                if (e.propertyName!=='transform') return
-                e.target.classList.remove('playing')    
-             }
-        </code>
+        function removePlayingClass (e) {
+            if (e.propertyName!=='transform') return
+            e.target.classList.remove('playing')    
+        }
     </pre>
 </p>
