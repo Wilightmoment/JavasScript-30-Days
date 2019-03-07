@@ -1,3 +1,4 @@
+# Drum Kit
 <h2>主要語法</h2>
 <p>
     1. 利用<code>addEventListener()</code>來進行事件的綁定
@@ -7,10 +8,12 @@
     4. <code>transitionend</code> 事件可以監聽 transition 結束後的行為
     <pre>
         <code>keys.forEach(key => key.addEventListener('transitionend', removePlayingClass))</code>
-        <code>function removePlayingClass (e) {
+        
+        <code>
+            function removePlayingClass (e) {
                 if (e.propertyName!=='transform') return
                 e.target.classList.remove('playing')    
-              }
+             }
         </code>
     </pre>
 </p>
