@@ -40,6 +40,12 @@
       <td>無，請看 Detail</td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/03 - CSS Variables">Detail</a></td>
     </tr>
+    <tr>
+      <td>05 Flex Panel Gallery</td>
+      <td>Flex 應用</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/05 - Flex Panel Gallery/">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/05 - Flex Panel Gallery">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
