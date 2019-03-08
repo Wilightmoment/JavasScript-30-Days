@@ -28,6 +28,12 @@
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/02%20-%20JS%20and%20CSS%20Clock/">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/02%20-%20JS%20and%20CSS%20Clock">Detail</a></td>
     </tr>
+    <tr>
+      <td>03 CSS Variables</td>
+      <td>用 JS 操作 CSS 變數</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/03 - CSS Variables/">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/03 - CSS Variables">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
