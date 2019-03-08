@@ -34,6 +34,12 @@
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/03 - CSS Variables/">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/03 - CSS Variables">Detail</a></td>
     </tr>
+    <tr>
+      <td>04 Array Cardio Day 1</td>
+      <td>介紹常用的 Array.prototype</td>
+      <td>無，請看 Detail</td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/03 - CSS Variables">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
