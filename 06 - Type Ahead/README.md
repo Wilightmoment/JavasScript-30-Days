@@ -12,4 +12,8 @@
       }
 </pre>
 <p>4. <code>replace()</code>會取代指定的字串</p>
-<pre>const cityName = place.city.replace(regex, `<span class="hl">${this.value}</span>`)</pre>
+<pre>
+    const regex = new RegExp(this.value, 'gi')
+    const cityName = place.city.replace(regex, `<span class="hl">${this.value}</span>`)
+    const stateName = place.state.replace(regex, `<span class="hl">${this.value}</span>`)    
+</pre>
