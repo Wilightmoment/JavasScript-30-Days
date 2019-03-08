@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Scoped CSS Variables and JS</title>
+</head>
+<body>
+  <h2>Update CSS Variables with <span class='hl'>JS</span></h2>
+
+  <div class="controls">
+    <label for="spacing">Spacing:</label>
+    <input id="spacing" type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
+
+    <label for="blur">Blur:</label>
+    <input id="blur" type="range" name="blur" min="0" max="25" value="10" data-sizing="px">
+
+    <label for="base">Base Color</label>
+    <input id="base" type="color" name="base" value="#ffc600">
+  </div>
+
+  <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
+
+  <style>
+    /* css 變數 */
+    :root {
+      --base: #ffc600;
+      --spacing: 10px;
+      --blur: 10px;
+    }
+    /*
+      misc styles, nothing to do with CSS variables
+    */
+
+    img {
+      padding: var(--spacing);
+      filter: blur(var(--blur));
+      background-color: var(--base);
+    }
+
+    body {
+      text-align: center;
+      background: #193549;
+      color: white;
+      font-family: 'helvetica neue', sans-serif;
+      font-weight: 100;
+      font-size: 50px;
+    }
+
+    .controls {
+      margin-bottom: 50px;
+    }
+
+    input {
+      width: 100px;
+    }
+  </style>
+
+  <script>
+    const inputs = document.querySelectorAll('.controls input')
+    inputs.forEach(input => input.addEventListener('change', handleVar))
+    inputs.forEach(input => input.addEventListener('mousemove', handleVar))
+    function handleVar() {
+      //padding、blur 後面需要單位 px ，所以如果遇到就單位，沒有就空值
+      const suffix = this.dataset.sizing || ''
+      //style.setProperty(屬性名稱, 值) 可以設定 style 的屬性
+      //document.documentElement 是根元素 <html>，因為 css 變數是在 html 底下
+      document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix)
+    }
+  </script>
+
+</body>
+</html>
