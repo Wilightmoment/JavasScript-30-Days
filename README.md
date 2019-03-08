@@ -22,6 +22,12 @@
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/01%20-%20JavaScript%20Drum%20Kit/">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/01%20-%20JavaScript%20Drum%20Kit">Detail</a></td>
     </tr>
+    <tr>
+      <td>02 JS Clock</td>
+      <td>利用 Date() API 寫一個時鐘</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/02%20-%20JS%20and%20CSS%20Clock/">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/02%20-%20JS%20and%20CSS%20Clock">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
