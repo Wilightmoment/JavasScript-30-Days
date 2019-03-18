@@ -47,10 +47,16 @@
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/05 - Flex Panel Gallery">Detail</a></td>
     </tr>
     <tr>
-      <td>06 - Type Ahead</td>
+      <td>06 Type Ahead</td>
       <td>透過 fetch 撈取資料並對資料進行操作</td>
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/06 - Type Ahead/">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/06 - Type Ahead">Detail</a></td>
+    </tr>
+    <tr>
+      <td>07 Array Cardio Day 2</td>
+      <td>介紹常用的 Array.prototype</td>
+      <td>無，請看 Detail</td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/07 - Array Cardio Day 2">Detail</a></td>
     </tr>
   </tbody>
   
