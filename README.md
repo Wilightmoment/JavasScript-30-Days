@@ -58,6 +58,12 @@
       <td>無，請看 Detail</td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/07 - Array Cardio Day 2">Detail</a></td>
     </tr>
+    <tr>
+      <td>08 Fun with HTML5 Canvas</td>
+      <td>Canvas 畫布操作!</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/08 - Fun with HTML5 Canvas/">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/08 - Fun with HTML5 Canvas">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
