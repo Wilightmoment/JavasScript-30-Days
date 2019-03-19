@@ -64,6 +64,18 @@
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/08 - Fun with HTML5 Canvas/">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/08 - Fun with HTML5 Canvas">Detail</a></td>
     </tr>
+    <tr>
+      <td>09 Dev Tools Domination</td>
+      <td>介紹常用的 dev tools 增快網頁除厝與開發</td>
+      <td>無，請看 Detail</td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/09 - Dev Tools Domination">Detail</a></td>
+    </tr>
+    <tr>
+      <td>10 Hold Shift and Check Checkboxes</td>
+      <td>透過 shift 來達到一口氣選取多個 checkbox</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/10 - Hold Shift and Check Checkboxes/">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/10 - Hold Shift and Check Checkboxes">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
