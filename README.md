@@ -94,6 +94,12 @@
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/13 - Slide in on Scroll">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/13 - Slide in on Scroll">Detail</a></td>
     </tr>
+    <tr>
+      <td>14 JavaScript References VS Copying</td>
+      <td>解說什麼是 by references、by value，並且在 copy 時避免 by references 的方法</td>
+      <td>無，請看 Detail</td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/14 - JavaScript References VS Copying">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
