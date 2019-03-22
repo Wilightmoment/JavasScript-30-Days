@@ -74,7 +74,25 @@
       <td>10 Hold Shift and Check Checkboxes</td>
       <td>透過 shift 來達到一口氣選取多個 checkbox</td>
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/10 - Hold Shift and Check Checkboxes/">Demo</a></td>
-      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/10 - Hold Shift and Check Checkboxes">Detail</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/10 - Hold Shift and Check Checkboxes">Detail</a>      </td>
+    </tr>
+    <tr>
+      <td>11 Custom Video Player</td>
+      <td>自己製作 video 播放器</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/11 - Custom Video Player">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/11 - Custom Video Player">Detail</a></td>
+    </tr>
+    <tr>
+      <td>12 Key Sequence Detection</td>
+      <td>輸入特定的按鍵，就會出現特別的事情!</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/12 - Key Sequence Detection">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/12 - Key Sequence Detection">Detail</a></td>
+    </tr>
+    <tr>
+      <td>13 Slide in on Scroll</td>
+      <td>當視窗移動到圖片位置時，圖片才會出現</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/13 - Slide in on Scroll">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/13 - Slide in on Scroll">Detail</a></td>
     </tr>
   </tbody>
   
