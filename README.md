@@ -100,6 +100,78 @@
       <td>無，請看 Detail</td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/14 - JavaScript References VS Copying">Detail</a></td>
     </tr>
+    <tr>
+      <td>15 LocalStorage</td>
+      <td>主要介紹 localStorage</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/15 - LocalStorage">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/15 - LocalStorage">Detail</a></td>
+    </tr>
+    <tr>
+      <td>16 Mouse Move Shadow</td>
+      <td>滑鼠在移動時，會產生不同方向的文字陰影</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/16 - Mouse Move Shadow">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/16 - Mouse Move Shadow">Detail</a></td>
+    </tr>
+    <tr>
+      <td>17 Sort Without Articles</td>
+      <td>複習 sort、map 的用法</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/17 - Sort Without Articles">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/17 - Sort Without Articles">Detail</a></td>
+    </tr>
+    <tr>
+      <td>18 Adding Up Times with Reduce</td>
+      <td>複習 reduce、map 的用法</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/18 - Adding Up Times with Reduce">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/18 - Adding Up Times with Reduce">Detail</a></td>
+    </tr>
+    <tr>
+      <td>19 Webcam Fun</td>
+      <td>將 webcam 影像抓到 canvas 中並進行操作，需要用 web server</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/19 - Webcam Fun">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/19 - Webcam Fun">Detail</a></td>
+    </tr>
+    <tr>
+      <td>20 Speech Detection</td>
+      <td>介紹語音轉換API web speech api，一樣需要 web server</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/20 - Speech Detection">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/20 - Speech Detection">Detail</a></td>
+    </tr>
+    <tr>
+      <td>21 Geolocation</td>
+      <td>利用 Navigator.geolocation 取得地理位置、速度、指向等，請用手機開啟</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/21 - Geolocation">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/21 - Geolocation">Detail</a></td>
+    </tr>
+    <tr>
+      <td>22 Follow Along Link Highlighter</td>
+      <td>當游標滑入 a 連結時，會有反白的 span 移入</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/22 - Follow Along Link Highlighter">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/22 - Follow Along Link Highlighter">Detail</a></td>
+    </tr>
+    <tr>
+      <td>23 Speech Synthesis</td>
+      <td>使用 SpeechSynthesisUtterance 來讓 browser 說話</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/23 - Speech Synthesis">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/23 - Speech Synthesis">Detail</a></td>
+    </tr>
+    <tr>
+      <td>24 Sticky Nav</td>
+      <td>實作 sticky 的效果，而非透過 css 的 stikcy</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/24 - Sticky Nav">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/24 - Sticky Nav">Detail</a></td>
+    </tr>
+    <tr>
+      <td>25 Event Capture, Propagation, Bubbling and Once</td>
+      <td>介紹 Event Capture、Event Buling</td>
+      <td>無，請看 Detail</td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/25 - Event Capture, Propagation, Bubbling and Once">Detail</a></td>
+    </tr>
+    <tr>
+      <td>26 Stripe Follow Along Nav</td>
+      <td>實作滑鼠移入 Nav 時，會產生內容並具有動畫效果，是 Day 22 的進階</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/26 - Stripe Follow Along Nav">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/26 - Stripe Follow Along Nav">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
