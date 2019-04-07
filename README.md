@@ -184,6 +184,18 @@
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/28 - Video Speed Controller">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/28 - Video Speed Controller">Detail</a></td>
     </tr>
+    <tr>
+      <td>29 Countdown Timer</td>
+      <td>利用 setInterval、clearInterval 製作倒數計時器</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/29 - Countdown Timer">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/29 - Countdown Timer">Detail</a></td>
+    </tr>
+    <tr>
+      <td>30 Whack A Mole</td>
+      <td>實作打地鼠小遊戲，遊戲時間十秒鐘</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/30 - Whack A Mole">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/30 - Whack A Mole">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
