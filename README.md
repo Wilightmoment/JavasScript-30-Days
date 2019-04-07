@@ -172,6 +172,18 @@
       <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/26 - Stripe Follow Along Nav">Demo</a></td>
       <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/26 - Stripe Follow Along Nav">Detail</a></td>
     </tr>
+    <tr>
+      <td>27 Click and Drag</td>
+      <td>實作滑鼠點擊並拖曳後，內容會左右移動的效果</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/27 - Click and Drag">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/27 - Click and Drag">Detail</a></td>
+    </tr>
+    <tr>
+      <td>28 Video Speed Controller</td>
+      <td>控制影片的播放速度，跟 <a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/11%20-%20Custom%20Video%20Player">Day11</a> 差不多</td>
+      <td><a href="https://wilightmoment.github.io/JavasScript-30-Days/28 - Video Speed Controller">Demo</a></td>
+      <td><a href="https://github.com/Wilightmoment/JavasScript-30-Days/tree/master/28 - Video Speed Controller">Detail</a></td>
+    </tr>
   </tbody>
   
 </table>
